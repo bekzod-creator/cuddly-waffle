@@ -7,7 +7,7 @@ https://uz-vss3.plbl.uz.lfstrm.tv/uz_bolajon/normal/1/index.m3u8?account=62cb77f
 https://uz-vss2.plbl.uz.lfstrm.tv/uz_zor_tv/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&dvrlimit=live&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live1&pbs_id=80e6f91c-3d0a-4741-9f37-e1e8dba9cd98&provider_id=63a98003d5198db8b963feb4&token=-ZF8j5KdSshuz4WEidqxDA&wlid=uztel
 
 #EXTINF:-1 tvg-id="SevimliTV" tvg-name="Sevimli TV" tvg-logo="https://i.imgur.com/RZVt1Es.png" group-title="Uzbekistan",Sevimli TV
-https://uz-vss4.plbl.uz.lfstrm.tv/uz_sevimli/normal/3/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live1&pbs_id=b4ffc193-7a68-43d9-8209-5483770cc097&provider_id=63a98003d5198db8b963feb4&token=u1orsOTTU_yN7RzOodHd7A&wlid=uztel
+https://uz-vss1.plbl.uz.lfstrm.tv/uz_sevimli/normal/0/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762279200&ip=100-116-45-215&liveorigin=uz-live1&origin=uz-dvr1&pbs_id=2db558e9-9776-47ef-886a-60a4abf59c86&provider_id=63a98003d5198db8b963feb4&token=QlMy0aapClD4NMzqlzKNhQ&wlid=uztel
 
 #EXTINF:-1 tvg-id="KrasnayaJara" tvg-name="Красная Жара" tvg-logo="https://i.imgur.com/bZf3gYF.png" group-title="Russia",Красная Жара
 https://uz-vss2.plbl.uz.lfstrm.tv/muzskoe_kino_bel/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762106400&ip=100-113-141-147&mpltlh=auto&origin=m9-dvr5&pbs_id=a984279a-8d5e-4321-9e3b-8216f6037f4e&provider_id=63a98003d5198db8b963feb4&token=OcG5o2GRzarWAdnG1TIK8w&wlid=uztel
@@ -44,3 +44,8 @@ https://uz-vss4.plbl.uz.lfstrm.tv/hollywood_hd/normal/3/index.m3u8?account=62cb7
 
 #EXTINF:-1 tvg-id="Rossiya 24" tvg-name="Rossiya 24" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Russia",Rossiya 24
 https://uz-vss3.plbl.uz.lfstrm.tv/uz_rossia24/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live1&pbs_id=1f68855a-7dc3-4e46-a0ea-570a3f754793&provider_id=63a98003d5198db8b963feb4&token=c1oHWKG1sy5f-jBKtXMVEw&wlid=uztel
+
+#EXTINF:-1 tvg-id="Uzbekiston 24" tvg-name="Uzbekiston 24" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Uzbekistan",Uzbekiston 24
+https://uz-vss3.plbl.uz.lfstrm.tv/uz_uzb_24/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&delay=59&env=s&expires=1762279200&ip=100-116-45-215&mpltlh=auto&origin=uz-dvr2&pbs_id=3103ddea-1c6c-41cb-9bef-b65ae7389690&provider_id=63a98003d5198db8b963feb4&token=Gw-rBRoCgBSHDrPu9BjETg&wlid=uztel
+
+
