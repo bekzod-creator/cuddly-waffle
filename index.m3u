@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BolajonTV" tvg-name="Bolajon TV" tvg-logo="https://i.imgur.com/4k4h0dT.png" group-title="Uzbekistan",Bolajon TV
+https://uz-vss3.plbl.uz.lfstrm.tv/uz_bolajon/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762106400&ip=100-113-141-147&mpltlh=auto&origin=uz-live2&pbs_id=2ceb46dd-c528-4892-94e8-f0505187d6b1&provider_id=63a98003d5198db8b963feb4&token=h6bYy9VOK4liOM8VOeK02Q&wlid=uztel
+
+#EXTINF:-1 tvg-id="ZorTV" tvg-name="Zo‘r TV" tvg-logo="https://i.imgur.com/KV7zL8B.png" group-title="Uzbekistan",Zo‘r TV
+https://uz-vss2.plbl.uz.lfstrm.tv/uz_zor_tv/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&dvrlimit=live&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live1&pbs_id=80e6f91c-3d0a-4741-9f37-e1e8dba9cd98&provider_id=63a98003d5198db8b963feb4&token=-ZF8j5KdSshuz4WEidqxDA&wlid=uztel
+
+#EXTINF:-1 tvg-id="SevimliTV" tvg-name="Sevimli TV" tvg-logo="https://i.imgur.com/RZVt1Es.png" group-title="Uzbekistan",Sevimli TV
+https://uz-vss4.plbl.uz.lfstrm.tv/uz_sevimli/normal/3/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live1&pbs_id=b4ffc193-7a68-43d9-8209-5483770cc097&provider_id=63a98003d5198db8b963feb4&token=u1orsOTTU_yN7RzOodHd7A&wlid=uztel
+
+#EXTINF:-1 tvg-id="KrasnayaJara" tvg-name="Красная Жара" tvg-logo="https://i.imgur.com/bZf3gYF.png" group-title="Russia",Красная Жара
+https://uz-vss2.plbl.uz.lfstrm.tv/muzskoe_kino_bel/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762106400&ip=100-113-141-147&mpltlh=auto&origin=m9-dvr5&pbs_id=a984279a-8d5e-4321-9e3b-8216f6037f4e&provider_id=63a98003d5198db8b963feb4&token=OcG5o2GRzarWAdnG1TIK8w&wlid=uztel
+
+#EXTINF:-1 tvg-id="MilliyTV" tvg-name="Milliy TV" tvg-logo="https://i.imgur.com/9NfUuV3.png" group-title="Uzbekistan",Milliy TV
+https://uz-vss3.plbl.uz.lfstrm.tv/uz_milliy_tv/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&dvrlimit=live&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live2&pbs_id=33bbd7dc-8162-4803-9dc4-2a017bf58282&provider_id=63a98003d5198db8b963feb4&token=CgMeLsePja7PKQnfY3dTAA&wlid=uztel
+
+#EXTINF:-1 tvg-id="MahallaHD" tvg-name="Mahalla HD" tvg-logo="https://i.imgur.com/UMmR9mV.png" group-title="Uzbekistan",Mahalla HD
+https://uz-vss1.plbl.uz.lfstrm.tv/uz_mahalla/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=u&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live2&pbs_id=cad3a70c-a9cd-4a78-85d8-edc5fdfb901e&provider_id=63a98003d5198db8b963feb4&token=8o6OE9hDFnPQBh3QT4qY7A&wlid=uztel
+
+#EXTINF:-1 tvg-id="DasturxonTV" tvg-name="Dasturxon TV" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Uzbekistan",Dasturxon TV
+https://uz-vss1.plbl.uz.lfstrm.tv/uz_dasturxon/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live1&pbs_id=c9d3714d-0730-46e0-a59b-3138cd822716&provider_id=63a98003d5198db8b963feb4&token=Nls0etCXQgVEiDX3lagURA&wlid=uztel
+
+#EXTINF:-1 tvg-id="Uzreport TV" tvg-name="Uzreport TV" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Uzbekistan",Uzreport TV
+https://uz-vss3.plbl.uz.lfstrm.tv/uz_uzreport_hd/normal/3/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=u&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live1&pbs_id=15f010da-6ec4-474c-96f3-b97303979eb5&provider_id=63a98003d5198db8b963feb4&token=o4BkXuBUE0MonTX7-Snlow&wlid=uztel
+
+#EXTINF:-1 tvg-id="MY 5" tvg-name="MY 5" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Uzbekistan",MY 5
+https://uz-vss2.plbl.uz.lfstrm.tv/uz_mening_yurtim/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live2&pbs_id=d614153e-c268-4103-92f2-cb100ab872cb&provider_id=63a98003d5198db8b963feb4&token=za8UFDo8G1bED3hDScKjjw&wlid=uztel
+
+#EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Russia",Первый канал
+https://uz-vss1.plbl.uz.lfstrm.tv/perviy_vsemirnaya/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=kt-dvr1&pbs_id=1e18bb6b-544d-45db-b95c-bb29a60bb008&provider_id=63a98003d5198db8b963feb4&token=wnWvUl2_SD4f_wUNQcZ1Yg&wlid=uztel
+
+#EXTINF:-1 tvg-id="Yoshlar TV" tvg-name="Yoshlar TV" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Uzbekistan",Yoshlar TV
+https://uz-vss3.plbl.uz.lfstrm.tv/uz_yoshlar_hd/normal/3/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live2&pbs_id=3290d8e7-97b9-4c38-8de4-4389ad8c7eab&provider_id=63a98003d5198db8b963feb4&token=g2F5e8xaErQ-lXgzMSLrfg&wlid=uztel
+
+#EXTINF:-1 tvg-id="Renesans TV" tvg-name="Renesans TV" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Uzbekistan",Renesans TV
+https://uz-vss2.plbl.uz.lfstrm.tv/uz_renessans_tv/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live2&pbs_id=a7ef6d21-08c4-4ba0-8e67-61fb8f51e326&provider_id=63a98003d5198db8b963feb4&token=g0Ac0JHpITvEcGDtkTKkcg&wlid=uztel
+
+#EXTINF:-1 tvg-id="Navo" tvg-name="Navo" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Uzbekistan",Navo
+https://uz-vss2.plbl.uz.lfstrm.tv/uz_navo/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live1&pbs_id=3aea8399-8bea-433b-b1b9-11187c31971e&provider_id=63a98003d5198db8b963feb4&token=iz6yGIS405LYKEJi3VgVtg&wlid=uztel
+
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Russia",HOLLYWOOD HD
+https://uz-vss4.plbl.uz.lfstrm.tv/hollywood_hd/normal/3/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=m9-dvr8&pbs_id=b2798b50-4fc7-405b-b97f-efa2507ab3b6&provider_id=63a98003d5198db8b963feb4&token=5fmw3QZoaz1s9qi3UCDKAw&wlid=uztel
+
+#EXTINF:-1 tvg-id="Rossiya 24" tvg-name="Rossiya 24" tvg-logo="https://i.imgur.com/Xh5lEm9.png" group-title="Russia",Rossiya 24
+https://uz-vss3.plbl.uz.lfstrm.tv/uz_rossia24/normal/1/index.m3u8?account=62cb77f722fa715e&client=1307acbc3d58ee57&env=s&expires=1762264800&ip=100-116-45-215&mpltlh=auto&origin=uz-live1&pbs_id=1f68855a-7dc3-4e46-a0ea-570a3f754793&provider_id=63a98003d5198db8b963feb4&token=c1oHWKG1sy5f-jBKtXMVEw&wlid=uztel
